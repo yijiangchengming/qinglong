@@ -22,7 +22,7 @@
 .env
 .history
 .version.ts
-
+/.github/workflows
 /config
 /log
 /db
